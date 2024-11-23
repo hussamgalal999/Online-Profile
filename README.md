@@ -1,5 +1,30 @@
-# Online-Profile
-  online profile page project using HTML, CSS, JavaScript, and the Tailwind CSS library. 
-  
-![alt Online-Profile-img](http://url/to/ https://github.com/hussamgalal999/Online-Profile/blob/master/Profile.jpeg
+# الصفحة الشخصية الإلكترونية (Online Profile)
 
+مشروع لإنشاء صفحة شخصية إلكترونية باستخدام HTML، CSS، JavaScript، ومكتبة Tailwind CSS لتنسيق التصميم.
+
+## محتويات المشروع
+- **HTML:** لإنشاء الهيكل الأساسي للصفحة.
+- **CSS و Tailwind CSS:** لتنسيق المظهر وإضافة التصميم الاحترافي.
+- **JavaScript:** لإضافة التفاعلية والحيوية للصفحة.
+
+## صورة من المشروع
+![alt Online-Profile-img](https://github.com/hussamgalal999/Online-Profile/blob/master/Profile.jpeg)
+
+## كيفية الاستخدام
+1. قم بتنزيل المشروع أو نسخه إلى جهازك.
+2. افتح الملف `index.html` باستخدام متصفح الويب لرؤية الصفحة.
+3. يمكن تخصيص التصميم أو إضافة مزايا جديدة عبر تعديل الأكواد في الملفات.
+
+## الأدوات المستخدمة
+- **HTML:** لبناء الصفحة.
+- **Tailwind CSS:** لتصميم سريع وسهل باستخدام المكونات الجاهزة.
+- **JavaScript:** لإضافة التفاعلية وتحسين تجربة المستخدم.
+
+## المساهمة
+مرحب بأي مساهمات لتحسين هذا المشروع! إذا كانت لديك أفكار أو ملاحظات، لا تتردد في فتح **Pull Request**.
+
+## الترخيص
+هذا المشروع مفتوح المصدر ويمكن استخدامه وتعديله حسب الحاجة.
+
+---
+تم إنشاء المشروع بواسطة [Hussam Galal](https://github.com/hussamgalal999).
